@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crypticknot&label=Profile%20Views&color=9c8372&style=flat" alt="crypticknot" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crypticknot" alt="crypticknot" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/crypticknot0" target="blank"><img src="https://img.shields.io/twitter/follow/crypticknot0?logo=twitter&style=for-the-badge" alt="crypticknot0" /></a> </p>
 
 - 🏫 I’m currently learning **Cybersec, Hacking, Programming**
